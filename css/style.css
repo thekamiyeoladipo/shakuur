@@ -205,6 +205,14 @@ footer h5, li a, i {
 #psychology {
   background-image: url(/images/pexels-tima-miroshnichenko-6694482.jpg);
 }
+
+#foodie {
+  background-image: url(/images/pexels-ahmet-cotur-776571149-27670192.jpg);
+}
+
+#gem {
+  background-image: url(/images/pexels-mccutcheon-1147946.jpg);
+}
 .masthead {
     margin-top: 4.8rem;
     background-position: center !important;
