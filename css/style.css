@@ -213,6 +213,10 @@ footer h5, li a, i {
 #gem {
   background-image: url(/images/pexels-mccutcheon-1147946.jpg);
 }
+
+#winning {
+  background-image: url(/images/pexels-naimbic-3200222.jpg);
+}
 .masthead {
     margin-top: 4.8rem;
     background-position: center !important;
